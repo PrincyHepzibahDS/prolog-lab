@@ -388,19 +388,7 @@ VERSION CONTROL: Git and GitHub
 
 OPERATING SYSTEM: Windows
 
-
 REPOSITORY PURPOSE
 
-This repository is maintained as a collection of academic Prolog laboratory exercises and practical implementations. It provides examples of fundamental Prolog programming techniques and demonstrates how logical reasoning and search can be applied to Artificial Intelligence problems.
+This repository is maintained as a collection of academic Prolog laboratory exercises and practical implementations. It provides examples of fundamental Prolog programming techniques and demonstrates how logical reasoning and search can be applied to Artificial Intelligence problems
 
-
-AUTHOR
-
-PRINCY HEPZIBAH D S
-
-COMPUTER SCIENCE AND BUSINESS SYSTEMS
-
-
-LICENSE
-
-This repository is intended primarily for academic and educational purposes.
